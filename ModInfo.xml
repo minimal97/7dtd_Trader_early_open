@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Trader_Early_Open" />
+		<Description value="Set all traders to Open 04:05" />
+		<Author value="minimal97"/>
+		<Version value="A20_1.0" />
+	</ModInfo>
+</xml>
